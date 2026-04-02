@@ -1,0 +1,434 @@
+{
+  "pillars": [
+    {
+      "pillar_number": 1,
+      "name": "ENHANCE",
+      "full_title": "Public Sector Transformation",
+      "cloud_stacks": [
+        {
+          "stack_number": 1,
+          "title": "Centralised Government Infrastructure",
+          "action_plans": [
+            {
+              "activity": "Execute the mandatory 'Cloud-First' Policy for all new IT spending and",
+              "measurement_indicator": "% of federal services online; Eg: % adoption to cloud",
+              "implementation_target": "95% of Federal services online;",
+              "duration": "2026-2030",
+              "lead_agency_acronym": "JDN",
+              "supporting_agencies_acronyms": ["KD", "MOF"]
+            },
+            {
+              "activity": "Perluasan Dan Pengukuhan Perkhidmatan MyGovCloud@PDSA Fasa III - Projek Perkhidmatan Blockchain As A Service (Baas)",
+              "measurement_indicator": "",
+              "implementation_target": "",
+              "duration": "2026-2028",
+              "lead_agency_acronym": "JDN",
+              "supporting_agencies_acronyms": ["MOF", "KD"]
+            },
+            {
+              "activity": "Projek Menaiktaraf Peralatan Rangkaian, Keselamatan, Perkakasan, Perisian ICT dan Pembangunan Cloud Availability Zone (CAZ) di PDSA",
+               "measurement_indicator": "",
+              "implementation_target": "",
+              "duration": "2026-2030",
+              "lead_agency_acronym": "JDN",
+              "supporting_agencies_acronyms": []
+            },
+             {
+              "activity": "Publish a definitive Legacy System Migration List.",
+              "measurement_indicator": "% of systems migrate",
+              "implementation_target": "80% migration target",
+              "duration": "2026-2030",
+              "lead_agency_acronym": "JDN",
+              "supporting_agencies_acronyms": ["KD"]
+            }
+          ]
+        },
+        {
+          "stack_number": 2,
+          "title": "Citizen Centric Digital Services",
+          "action_plans": [
+            {
+              "activity": "Rebuilding High-Impact Citizen Journeys",
+              "measurement_indicator": "% of Federal services online (Target: 95%) and User Satisfaction Score for the MyGov App.",
+              "implementation_target": "Rebuild 3–5 high-volume citizen services Develop and launch citizen centric services on the government cloud, focusing on key areas like healthcare and education.",
+              "duration": "2026–2030",
+              "lead_agency_acronym": "JDN",
+              "supporting_agencies_acronyms": ["KD", "KKM", "KPM", "MOT", "KDN", "KPKT", "KPDN"]
+            }
+          ]
+        },
+        {
+          "stack_number": 3,
+          "title": "Cloud Native Framework",
+          "action_plans": [
+            {
+              "activity": "Establish Cloud-Native Center of Excellence (CoE)",
+              "measurement_indicator": "One CoE Established",
+              "implementation_target": "Establish the CoE by 2027",
+              "duration": "2026-2027",
+              "lead_agency_acronym": "JDN",
+              "supporting_agencies_acronyms": ["KD", "MOHE"]
+            },
+            {
+               "activity": "Enforce a standardized 'Cloud-Native' development framework (e.g., CI/CD pipelines) for all public sector IT projects",
+              "measurement_indicator": "Number of high-volume services rebuilt as cloud-native.",
+              "implementation_target": "Rebuild 3–5 high-volume services as cloud-native by 2030. Implement and mandate a \"cloud native\" framework for all new public sector applications.",
+              "duration": "2027-2030",
+              "lead_agency_acronym": "KD",
+              "supporting_agencies_acronyms": ["MDEC"]
+            }
+          ]
+        },
+         {
+          "stack_number": 4,
+          "title": "Transparent Cloud Procurement",
+          "action_plans": [
+            {
+              "activity": "Standardization of cloud procurement to ensure transparency and fiscal responsibility across all ministries.",
+              "measurement_indicator": "Percentage of new cloud procurement contracts utilizing the revised CFA 2.0 templates Percentage of procurement evaluations that include a documented Total Cost of Ownership (TCO) analysis Number of ministries successfully updating their internal procurement guidelines to match PK 2.6 standards.",
+              "implementation_target": "Transition 100% of new cloud procurement contracts to the revised CFA with mandatory SLAs and exit strategy clauses. Adoption of a Total Cost of Ownership (TCO) evaluation model for all public sector cloud Procurements. Enhance procurement guidelines (CFA 2.0 theme) for cloud services, ensuring clear SLAs and accountability.",
+              "duration": "2026-2028",
+              "lead_agency_acronym": "JDN",
+              "supporting_agencies_acronyms": ["MOF"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pillar_number": 2,
+      "name": "NURTURE",
+      "full_title": "Private Sector Growth",
+      "cloud_stacks": [
+        {
+          "stack_number": 5,
+          "title": "Economic Growth and Competitiveness",
+          "action_plans": [
+            {
+              "activity": "Cloud-Driven Industrial Transformation foster a vibrant ecosystem where the private sector transitions from being \"cloud users\" to \"cloud innovators.\". ",
+              "measurement_indicator": "Percentage of MSMEs utilizing advanced cloud services (AI, Big Data, IoT).",
+              "implementation_target": "Launch incentives (grants, tax relief) to encourage SME cloud adoption and boost R&D in cloud solutions. Achieve a specific increase in the BDAI Technology index (e.g., from 1.9 toward \"Established\" status) and subsidize cloud certifications for thousands of SME employees.",
+              "duration": "2026-2028",
+              "lead_agency_acronym": "MITI",
+              "supporting_agencies_acronyms": ["KD"]
+            }
+          ]
+        },
+        {
+          "stack_number": 6,
+          "title": "Public Private Partnership",
+          "action_plans": [
+             {
+              "activity": "Establish a Streamlined PPP Cloud Framework: Publish clear legal and financial guidelines to significantly reduce the time required to formalize Public-Private Partnerships for strategic cloud projects.",
+              "measurement_indicator": "Reduction in time required to formalize PPPs.",
+              "implementation_target": "Develop and formalize a framework for PPPs in cloud initiatives; implement major national digital projects Published legal/financial guidelines for cloud PPPs.",
+              "duration": "2026-2030",
+              "lead_agency_acronym": "MDEC",
+              "supporting_agencies_acronyms": ["KD", "JPM", "KE", "MOF"]
+            }
+          ]
+        },
+        {
+          "stack_number": 7,
+          "title": "Support for Local Cloud Providers",
+          "action_plans": [
+             {
+              "activity": "Create 'Buy Local Cloud' Mandate: Institute a preferential procurement policy for local cloud providers when government agencies spend below a certain threshold on non-critical cloud services.",
+              "measurement_indicator": "Marketplace activity; % of gov spend on local cloud.",
+              "implementation_target": "Create a cloud marketplace that enables local providers to offer services; provide skills development support to local SIs. Preferential procurement for local providers below specific thresholds.",
+              "duration": "2026-2030",
+              "lead_agency_acronym": "MCMC",
+              "supporting_agencies_acronyms": ["MITI", "MDEC", "JDN"]
+            }
+          ]
+        },
+        {
+          "stack_number": 8,
+          "title": "Partnerships Between Academia and Industry",
+          "action_plans": [
+             {
+              "activity": "Launch Cloud Education Vouchers: Require universities to incorporate vendor-neutral cloud fundamentals into computing/engineering degrees, subsidized by MDEC/MOHE vouchers for student certifications.",
+              "measurement_indicator": "Graduate Employability Rate (GER) in Cloud Roles: % of graduates hired into cloud-specific roles within 6 months.",
+              "implementation_target": "Introduce cloud specific curricula; establish innovation hubs bridging academia and industry Total Cloud Credits Earned: Aggregate number of cloud-aligned credits completed by students annually.",
+              "duration": "2026-2030",
+              "lead_agency_acronym": "MDEC",
+              "supporting_agencies_acronyms": ["MOHE", "MYDC"]
+            }
+          ]
+        },
+         {
+          "stack_number": 9,
+          "title": "Consumer Rights and Service Reliability",
+          "action_plans": [
+             {
+              "activity": "Enforce Cloud Service Standards: Establish regulatory oversight for consumer-facing cloud services and mandate clear service level transparency requirements for all commercial CSPs.",
+              "measurement_indicator": "1. Standardization Rate: Number of national cloud standards published and adopted by the industry. 2. Transparency Compliance: Percentage of commercial CSPs providing publicly accessible, standardized SLA reports.",
+              "implementation_target": "Develop and publish standards for consumer protection in cloud services, including clear SLAs. 1. 100% Mandatory Disclosure: All commercial CSPs must provide clear, simplified transparency statements to consumers regarding data handling and service reliability by 2030. 2. Regulatory Framework: Fully operational oversight mechanism for consumer cloud grievances.",
+              "duration": "Q12027-Q42029",
+              "lead_agency_acronym": "KPDN",
+              "supporting_agencies_acronyms": ["KDN", "MCMC", "JDN", "DSM"]
+            }
+          ]
+        },
+        {
+           "stack_number": 10,
+          "title": "Establishment of Sovereign Cloud",
+          "action_plans": [
+             {
+              "activity": "Define National Sovereign Cloud Standards/ (NSCS): Publish the official compliance standards and certification roadmap for what constitutes a 'Sovereign Cloud' in Malaysia. Developing Sovereign Cloud.",
+              "measurement_indicator": "Publication of the National Sovereign Cloud Standards (NSCS); % of critical national data stored in sovereign-compliant infrastructure.",
+              "implementation_target": "Partner with CSPs to establish a Sovereign Cloud to ensure critical data resides within Malaysia's borders. 100% of \"Critical\" and \"Sensitive\" public sector data residing within Malaysian borders or under local legal control by 2030.",
+              "duration": "2026-2030",
+              "lead_agency_acronym": "MCMC",
+              "supporting_agencies_acronyms": ["KD", "JDN", "CGSO", "NACSA", "DSM"]
+            },
+              {
+              "activity": "Development of Sovereign AI Cloud ",
+              "measurement_indicator": "",
+              "implementation_target": "",
+              "duration": "2026-2027",
+              "lead_agency_acronym": "MCMC",
+              "supporting_agencies_acronyms": ["KD", "JDN", "MDEC", "CGSO", "NACSA"]
+            }
+
+          ]
+        },
+         {
+           "stack_number": 11,
+          "title": "Certification of Cloud Service Providers",
+          "action_plans": [
+             {
+              "activity": "1. Implement Mandatory Tiers for Public Data: Classify government data into Tiers (e.g., Sensitive, Non-Sensitive) and mandate that CSPs handling these Tiers must hold the corresponding national certification. 2. Develop and enforce a National Cloud Certification Scheme with multiple tiers (e.g., Tier 1 for critical infrastructure, Tier 2 for general business).",
+              "measurement_indicator": "Number of CSPs (local and international) achieving \"Tier 1\" or \"Sovereign-Ready\" certification status.",
+              "implementation_target": "Implement a multi tier certification framework for CSPs, mandatory for those handling public sector data. Mandatory certification for all CSPs providing services to the Government of Malaysia and Critical National Information Infrastructure (CNII).",
+              "duration": "2026-2030",
+              "lead_agency_acronym": "MCMC",
+              "supporting_agencies_acronyms": ["KD", "MDEC", "DSM"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pillar_number": 3,
+      "name": "SECURE",
+      "full_title": "Data Protection and Privacy",
+      "cloud_stacks": [
+         {
+          "stack_number": 12,
+          "title": "Data Privacy, Security and Ethical Use",
+          "action_plans": [
+            {
+              "activity": "Policy Enforcement and Technical Safeguards",
+              "measurement_indicator": "Mandate \"Zero Trust\" and publish National AI powered Cloud Apps",
+              "implementation_target": "Adoption of binding ethical guidelines.",
+              "duration": "2026–2030",
+              "lead_agency_acronym": "KD",
+              "supporting_agencies_acronyms": ["KD", "JPDP", "MYDC", "CSM", "NAIO", "CGSO", "AGC"]
+            },
+            {
+              "activity": "Expedite Foundational Digital Legislation: Accelerate the drafting and passing of the Digital Infrastructure Act (or equivalent law) to provide the necessary legal backing for centralized government data sharing and digital asset management.",
+              "measurement_indicator": "Legislative Progress: Completion of Cabinet approval for the policy paper and successful tabling in Parliament. Regulatory Clarity: Number of secondary guidelines (subsidiary legislation) issued to operationalize the Act.",
+              "implementation_target": "Full Legal Framework by 2026/2027: While the broad implementation timeline for the NCCP is 2026–2030, this legislation is targeted for early passage (likely first sitting of Parliament 2026) to enable other cloud stacks.",
+              "duration": "",
+              "lead_agency_acronym": "",
+              "supporting_agencies_acronyms": []
+            }
+          ]
+        },
+        {
+          "stack_number": 13,
+          "title": "Breach Notification and Incident Response",
+          "action_plans": [
+             {
+              "activity": "Institute Mandatory Enforce Mandatory Protocols: Implement binding breach notification requirements for all cloud-hosted systems. Cyber Drills: Require all Critical National Information Infrastructure (CNII) owners to participate in biannual simulated cloud breach exercises managed by NACSA/CSM.",
+              "measurement_indicator": "National Drills: Conduct regular national-level incident response exercises. Response Time: Average time between incident detection and initial notification. Exercise Frequency: Number of national cyber drills conducted annually.",
+              "implementation_target": "Enforce mandatory breach notification protocols; conduct regular national incident response drills. Mandatory Reporting: Initial report within 6 hours for NCII and 72 hours for personal data breaches (PDPA). Biannual Drills: Participation of 100% of Critical National Information Infrastructure (CNII) owners in cloud breach simulations.",
+              "duration": "Q42026-Q42030",
+              "lead_agency_acronym": "NACSA",
+              "supporting_agencies_acronyms": ["CSM", "JDN", "BAD"]
+            }
+          ]
+        },
+         {
+          "stack_number": 14,
+          "title": "Disaster Recovery and Continuity",
+          "action_plans": [
+             {
+              "activity": "Audit DRaaS Compliance for Critical Systems: Conduct mandatory third-party audits on the disaster recovery capabilities (RTO/RPO) of all government cloud-hosted critical systems. DRaaS Mandate: Require comprehensive Disaster Recovery as a Service (DRaaS) for all high-criticality systems.",
+              "measurement_indicator": "Audit Compliance Rate: % of audited systems meeting mandated RTO (Recovery Time Objective) and RPO (Recovery Point Objective). Recovery Drills: Success rate of \"hot site\" failover tests.",
+              "implementation_target": "Require comprehensive DRaaS solutions and enforce strict protocols for critical infrastructure. 100% Audit Coverage: Mandatory third-party audits for all government cloud-hosted critical systems by 2030.",
+              "duration": "2026-2030",
+              "lead_agency_acronym": "JDN",
+              "supporting_agencies_acronyms": ["KD", "MDEC", "NACSA", "MKN", "NADMA"]
+            }
+          ]
+        },
+        {
+          "stack_number": 15,
+          "title": "Data Sovereignty",
+          "action_plans": [
+             {
+              "activity": "1. Review and Update Cross Border Data Laws: Review existing legislation (e.g., PDPA) to explicitly address cloud computing and foreign government access to data stored in Malaysia.",
+              "measurement_indicator": "Legal Amendments Completed: Number of legislative updates passed regarding foreign data access. ",
+              "implementation_target": "Enforce national laws on data handling; implement sovereign encryption keys for cross-border transfers. Full Legal Alignment: Complete the revision of the PDPA and other relevant laws by 2027 to protect against unauthorized foreign jurisdictional access. ",
+              "duration": "2026-2030",
+              "lead_agency_acronym": "CGSO",
+              "supporting_agencies_acronyms": ["KD", "JPDP", "CSM", "AGC"]
+            },
+              {
+              "activity": "2. Sovereign Encryption: Implement mandatory sovereign encryption keys (e.g., BYOK/HYOK) for sensitive data transferred or stored across borders to ensure only Malaysian authorities/owners have access.",
+              "measurement_indicator": "Encryption Adoption Rate: % of cross-border cloud transactions using verified sovereign encryption keys.",
+              "implementation_target": "Technical Control: 100% of sensitive government data on global clouds must utilize sovereign encryption",
+              "duration": "",
+              "lead_agency_acronym": "",
+              "supporting_agencies_acronyms": []
+            }
+          ]
+        },
+        {
+          "stack_number": 16,
+          "title": "Data Portability Rights",
+          "action_plans": [
+             {
+              "activity": "1. Mandate Standardized Exit Tools: Require all CSPs operating in Malaysia to provide standardized, vendor agnostic tools to facilitate secure and free data transfer for end-users.",
+              "measurement_indicator": "Data Portability Compliance Rate: % of commercial CSPs that have successfully integrated the mandated \"Standardized Exit Tools\". ",
+              "implementation_target": "Publish guidelines and implement tools for secure and easy data transfer between cloud services. Mandatory Portability: Full enforcement of the Right to Data Portability (PDPA Section 43A) where users can request direct transmission of data between controllers by 2027.",
+              "duration": "2026-2028",
+              "lead_agency_acronym": "JPDP",
+              "supporting_agencies_acronyms": ["MCMC", "KPDN"]
+            },
+              {
+              "activity": "2. Publish Technical Guidelines: Develop operational standards for data formats and transmission protocols to ensure interoperability.",
+              "measurement_indicator": "Guideline Adoption: Number of sectors (e.g., Finance, Healthcare) that have adopted industry-specific data portability formats.",
+              "implementation_target": "Format Standardization: Establish 3–5 common vendor-neutral data formats for major cloud categories (SaaS, Storage) by 2028.",
+              "duration": "",
+              "lead_agency_acronym": "",
+              "supporting_agencies_acronyms": []
+            }
+          ]
+        }
+      ]
+    },
+     {
+      "pillar_number": 4,
+      "name": "INCLUDE",
+      "full_title": "Digital Inclusivity",
+      "cloud_stacks": [
+        {
+          "stack_number": 17,
+          "title": "Digital Literacy and Skills Development",
+          "action_plans": [
+            {
+              "activity": "Launch literacy programs and 'Social Cloud' subsidies Launch Nationwide Programs: Execute digital literacy initiatives focused on cloud fundamentals for rural and marginalized groups. National Cloud Skills Training Grant: Fund a public private partnership program to subsidize 80% of the cost for high-demand cloud certifications for local talent and civil servants.",
+              "measurement_indicator": "Certification Volume: Number of high-demand cloud certifications issued through the grant. Literacy Reach: % increase in digital literacy proficiency among rural communities as measured by the Digital Inclusivity Index Malaysia (DIIM).",
+              "implementation_target": "80% subsidy for cloud certifications; special fund for NGOs. Inclusive Skillsets: Ensure 100% of civil servants in digital-facing roles complete basic cloud-native literacy training. Launch nationwide digital literacy programs, focusing on rural and marginalized communities.",
+              "duration": "2026–2030",
+              "lead_agency_acronym": "MYDC",
+              "supporting_agencies_acronyms": ["KD", "JDN", "MDEC", "JPM", "MOHE"]
+            }
+          ]
+        },
+        {
+          "stack_number": 18,
+          "title": "Affordable Cloud Solutions for Essential Services",
+          "action_plans": [
+            {
+              "activity": "1. Create 'Social Cloud' Subsidy: Establish a special fund to provide low-cost or subsidized cloud infrastructure for NGOs and community enterprises.",
+              "measurement_indicator": "NGO Adoption Rate: Number of registered NGOs/Social Enterprises successfully migrated to the 'Social Cloud' platform.",
+              "implementation_target": "Targeted Funding: Establish a sustainable Social Cloud Fund by 2027 to cover at least 50% of monthly operational cloud costs for eligible NGOs.",
+              "duration": "2026–2030",
+              "lead_agency_acronym": "JDN",
+              "supporting_agencies_acronyms": ["MOD", "MOE", "KPWKM", "MYDC"]
+            },
+             {
+              "activity": "2. Incentivize Low-Cost Development: Offer grants for developers to build cloud-native applications tailored for social sectors like community healthcare and rural education.",
+              "measurement_indicator": "Service Impact Metric: Number of citizens in underserved areas accessing essential services via cloud-enabled community platforms.",
+              "implementation_target": "Service Modernization: Launch at least 10 key community-led healthcare or education cloud applications by 2030.",
+              "duration": "",
+              "lead_agency_acronym": "",
+              "supporting_agencies_acronyms": []
+            }
+          ]
+        },
+        {
+          "stack_number": 19,
+          "title": "Cloud Expansion for Underserved Areas",
+          "action_plans": [
+            {
+              "activity": "Expand cloud connectivity to underserved regions. Mandate Rural Cloud Infrastructure Investment: Use Universal Service Provision (USP) funds to subsidize the deployment of edge computing nodes and affordable local cloud access points in underserved and rural areas.",
+               "measurement_indicator": "Number of edge computing nodes deployed in rural areas.",
+              "implementation_target": "Subsidized local cloud access points in rural regions. Accelerate expansion of cloud infrastructure/ connectivity to underserved regions; offer grants for private sector investment",
+              "duration": "2026–2030",
+              "lead_agency_acronym": "MCMC",
+              "supporting_agencies_acronyms": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pillar_number": 5,
+      "name": "SUSTAIN",
+      "full_title": "Environmental Sustainability",
+      "cloud_stacks": [
+        {
+          "stack_number": 20,
+          "title": "Energy-Efficient Hosting and Connectivity",
+          "action_plans": [
+            {
+              "activity": "Implement Green Data Center Certification and carbon targets. Establish \"Green Data Center' Certification (GDC): Create a mandatory national GDC certification scheme linked to renewable energy usage and PUE metrics. Feedback from ST: The Data Centre Task Force(DCTF), led by MITI and the Ministry of Digital, has introduced a minimum Power Usage Effectiveness (PUE) requirement for data center approvals to drive energy efficiency and promote sustainable practices in data centre operations. Hyperscale data centres shall achieve a PUE of 1.4 or lower, while colocation data centres shall achieve a PUE of 1.6 or lower.",
+              "measurement_indicator": "PUE metrics; % of renewable energy used by DCs.",
+               "implementation_target": "Carbon-neutral goals for new data centers. Implement a framework promoting energy efficient practices and mandating the use of virtualization in new data centers.",
+              "duration": "2026–2030",
+              "lead_agency_acronym": "NRES",
+              "supporting_agencies_acronyms": ["SEDA", "ENERGY COMMISSION", "PETRA", "MDEC"]
+            }
+          ]
+        },
+        {
+           "stack_number": 21,
+          "title": "Sustainable Infrastructure Development",
+          "action_plans": [
+             {
+               "activity": "Implement Green Data Center Certification and carbon targets. Incorporate Digital into National Carbon Targets: Include energy consumption from data centres as a specific sectoral target in Malaysia's Nationally Determined Contribution (NDC) for carbon reduction.",
+              "measurement_indicator": "PUE metrics; % of renewable energy used by DCs.",
+               "implementation_target": "Carbon-neutral goals for new data centers. Encourage investments in \"green\" technologies and design new data centers to achieve carbon-neutral goals.",
+              "duration": "2026–2030",
+              "lead_agency_acronym": "MDEC",
+              "supporting_agencies_acronyms": ["SEDA", "NRES", "ENERGY COMMISSION", "PETRA"]
+             }
+          ]
+        },
+        {
+           "stack_number": 22,
+          "title": "Environmental Standards for Cloud",
+          "action_plans": [
+             {
+               "activity": "Establish e-waste recycling protocols and environmental audits. Enforce Digital E-Waste Recycling Protocol: Establish a clear regulatory protocol and collection system for the responsible recycling of decommissioned cloud hardware and data centre equipment.",
+              "measurement_indicator": "Compliance audit results; volume of recycled hardware.",
+               "implementation_target": "Mandatory national GDC certification scheme. Establish comprehensive environmental standards (e.g., e waste reduction); conduct regular compliance audits.",
+              "duration": "2026–2030",
+              "lead_agency_acronym": "MDEC",
+              "supporting_agencies_acronyms": ["KD", "NRES", "PETRA", "DSM"]
+             }
+          ]
+        },
+         {
+           "stack_number": 23,
+          "title": "Green Data Centres",
+          "action_plans": [
+             {
+               "activity": "Position Centres Malaysia as a regional hub for high-tech, eco-friendly data centers. Incentivize Carbon-Neutral PPA: Offer preferential land allocation and long-term Power Purchase Agreements (PPAs) for renewable energy to international investors who commit to building carbon neutral, GDC-certified facilities.",
+              "measurement_indicator": "PUE metrics; % of renewable energy used by DCs.",
+               "implementation_target": "Carbon-neutral goals for new data centers. Provide incentives for the development of green data centers using renewable energy; implement a national certification program.",
+              "duration": "2026–2030",
+              "lead_agency_acronym": "NRES",
+              "supporting_agencies_acronyms": ["PETRA", "MDEC", "SEDA", "ENERGY COMMISSION"]
+             }
+          ]
+        }
+      ]
+    }
+  ]
+}
